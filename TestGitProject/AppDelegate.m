@@ -18,6 +18,7 @@
     [self.window makeKeyAndVisible];
     
     NSLog(@"ああああああああ");
+    NSLog(@"いいいいいいいい");
     return YES;
 }
 
